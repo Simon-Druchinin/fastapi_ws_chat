@@ -4,9 +4,15 @@
 Проект для ознакомления с вебсокетами и инструментами работы с ними.
 
 ---
+### Демонстрация:
+После запуска проекта пройдите по ссылкам:
++ [**Чат** - http://localhost:8000/pages/chat](http://localhost:8000/pages/chat)
++ [**Swagger** - http://localhost:8000/docs](http://localhost:8000/docs) 
+
+---
 ### Как запустить:
 ```bash
-doker compose up -- build
+docker compose up --build
 ```
 
 ---
